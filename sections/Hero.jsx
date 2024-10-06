@@ -40,7 +40,7 @@ const Hero = () => (
               className="w-[24px] h-[24px] object-contain"
             />
             <span className="font-semibold text-[16px] text-white">
-              Explore the space
+              Explore universe
             </span>
           </button>
           <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#F91E48] rounded-[32px] gap-[12px]">
