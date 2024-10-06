@@ -50,7 +50,7 @@ const Hero = () => (
               className="w-[24px] h-[24px] object-contain"
             />
             <span className="font-semibold text-[16px] text-white">
-              VR Experience
+              VR experience
             </span>
           </button>
         </div>
